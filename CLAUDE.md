@@ -33,7 +33,7 @@ Headings differ by directory and are not fully uniform, so open a sibling file a
 - Tool prompts: start with `Purpose` and `Behavior Rules`, and include `Guardrails`
 - Memory prompts: include `Constraints` and usually `Format`
 - Utility prompts: `Rules / Format`
-- Agent prompts: the README asks for `Approach / Output / Constraints`; existing files express these without `##` headings
+- Agent prompts: plain-text labels `Approach:` / `Output:` / `Constraints:` (no `##` headings, because the file body is the prompt itself)
 
 ## When Adding or Renaming a File
 
